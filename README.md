@@ -17,5 +17,6 @@ Ses Spektrogramlarına ek olarak, her alıntıyla ilgili meta verileri içeren b
 | `Loss` | 0.4141 |  
   
 
-J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014.
+J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014.  
+
 Ses dosyalarını içeren verisetine ([buradan](https://urbansounddataset.weebly.com/urbansound8k.html)) ulaşabilirsiniz.
